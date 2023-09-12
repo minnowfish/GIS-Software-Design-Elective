@@ -8,8 +8,8 @@
 - Eggs
 
 ## Method
-1. Mix the ingrideimts with right proportions
-2. Bake
-3. Serve on plate
-4. Eat
-5. Save any leftover bread
+1. Mix the flour, water, yeast and eggs with right proportions
+2. Bake the mixture for however long is recommended
+3. Serve the bread
+~~4. Or just go to the store and buy bread~~
+=======
