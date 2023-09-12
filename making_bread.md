@@ -8,9 +8,8 @@
 - Eggs
 
 ## Method
-1. Mix
-2. the ingrideimts with right proportions
-3. Bake
-4. Serve on plate
-5.Eat
-6.save any leftover bread
+1. Mix the ingrideimts with right proportions
+2. Bake
+3. Serve on plate
+4. Eat
+5. Save any leftover bread
